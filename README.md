@@ -2,6 +2,7 @@
 
 This is a WIP that for a basic client dashboard. 
 Here is my full plan so far. Have not made tickets for phase 3 but will be coming after phase 1:
+
 ![image](https://github.com/user-attachments/assets/233de9b9-a97b-4e6d-afb3-13f01117d093)
 
 
