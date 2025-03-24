@@ -10,6 +10,6 @@ FE:
 
 
 MVP:
-Ability to create clients
-Ability to see clients in Client List
-Ability to edit clients from Client List
+- Ability to create clients
+- Ability to see clients in Client List
+- Ability to edit clients from Client List
